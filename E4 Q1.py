@@ -1,3 +1,4 @@
+#Experiment 4 question 1
 def count_substring(string, sub_string):
     c = 0
     for i in range(len(string)):
